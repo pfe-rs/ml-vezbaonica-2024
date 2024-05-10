@@ -3,5 +3,5 @@ matplotlib
 pandas
 opencv-python
 seaborn
-sklearn
+scikit-learn
 statsmodels
