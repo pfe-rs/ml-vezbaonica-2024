@@ -1,6 +1,6 @@
 numpy
 matplotlib
 pandas
-cv2
+opencv-python
 seaborn
 sklearn
